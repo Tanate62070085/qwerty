@@ -56,6 +56,7 @@ public class Constants {
 
     }
 
+    // Same in src/utilz/Constants.java 274-294
     public static int GetSpriteAmount(int enemyType, int enemyActions) {
         switch (enemyType) {
             case TYPE_SLIME -> {
